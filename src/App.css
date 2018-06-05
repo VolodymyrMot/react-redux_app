@@ -1,0 +1,364 @@
+body{
+    background: #e6e6e6;
+    margin: 0;
+    padding: 0;
+    font-family: 'Libre Baskerville', serif;
+}
+#root{
+    margin: 0 auto;
+    width: 100%;
+}
+.container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Libre Baskerville', serif;
+    justify-content: center;
+}
+
+.menu_content100{
+    width: 100%;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background: #f6f6f6;
+    box-shadow: 2px 2px 10px #8c8b8b;
+    display: flex;
+    justify-content: center;
+}
+
+.menu_content90{
+    margin-top: 150px;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.content{
+    flex-grow: 1;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.content_list{
+    width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: start;
+  background: #f6f6f6;
+  height: 700px;
+  overflow: scroll;
+  /*box-shadow: 0.5px 0.5px 2px #8c8b8b;*/
+  border-left: 2px solid #e6e6e6;
+}
+
+.search{
+  width: 350px;
+  margin-top: 20px;
+}
+.sale{
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sale_number{
+    font-weight: bold;
+    font-size: 40px;
+    transition-duration: 1s;
+    animation: for_sale infinite 2s linear;
+}
+
+.search_btn{
+  font-family: 'Libre Baskerville', serif;
+  padding: 5px;
+  width: 60px;
+  margin-left: 10px;
+  background: #2c2c2c;
+  color: #c5c5c5;
+  font-size: 20px;
+  border: #111111;
+  border-radius: 5px;
+  cursor: pointer;
+  transition-duration: 1s;
+  animation: for_btn infinite 0.8s linear;
+}
+.search_btn:hover{
+  transition-duration: 1s;
+  animation: for_btn2 infinite 0.8s linear;
+}
+.search_btn:active {
+  transition-duration: 1s;
+  animation: btn_active normal 0.1s linear;
+}
+.inp{
+  font-family: 'Libre Baskerville', serif;
+  color: #3c3b3b;
+  font-size: 20px;
+  background: linear-gradient(to bottom right, #f1f1f1, #ffffff);
+  box-shadow: 0.5px 0.5px 2px #757474;
+}
+.search_inp{
+  margin: 30px 5px 50px 5px;
+}
+
+#auto_lenght{
+    width: 100%;
+  display: none;
+  color: #262525;
+}
+.search_value{
+  color: black;
+  font-size: 40px;
+}
+.block{
+  width: 30%;
+  min-width: 250px;
+  margin: 10px 5px 20px 5px;
+  background: #f1f1f1;
+  height: fit-content;
+  box-shadow: 0.5px 0.5px 2px #757474;
+}
+.block:hover{
+  background: #ffffff;
+  /*margin: inherit;*/
+  cursor: pointer;
+  transition-duration: 0.4s;
+  box-shadow: 5px 5px 12px #616161;
+}
+.block:hover .buy{
+    transition-duration: 1s;
+    display: block;
+}
+.block:hover .blockInfo {
+  background: #ffffff;
+  transition-duration: 1s;
+}
+
+.blockInfo{
+    background: linear-gradient(to bottom right, #f1f1f1, #ececec);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blockInfo h4 span{
+    font-size: 20px;
+    color: #262525;
+}
+.name{
+  background: radial-gradient(white 20%, rgba(66, 176, 235, 0.78) 80%);
+  font-size: 25px;
+  width: 100%;
+  margin: 0;
+  padding: 5px;
+  text-align: center;
+}
+.secondName{
+  width: 100%;
+  font-size: 18px;
+  margin: 0;
+  text-align: center;
+  background: linear-gradient(to right, rgba(255, 86, 83, 0.78), white, rgba(255, 86, 83, 0.78));
+}
+.price{
+    margin: 0 0 10px 0;
+    padding: 0 0 5px 15px;
+    width: 60%;
+    font-size: 25px;
+    color: #3769a4;
+}
+.toBasket{
+    margin: 5px 0 0 20px;
+    padding: 1px;
+    border: 2px solid #4f4f4f;
+    border-radius: 5px;
+    width: 25px;
+    height: 25px;
+    opacity: 0.3;
+}
+.toBasket:hover{
+    opacity: 0.9;
+}
+.toBasket:active{
+    opacity: 0.5;
+}
+
+.toBasket img{
+    height: 25px;
+    width: 100%;
+    z-index: 0;
+}
+.basket_btn{
+    width: 55px;
+    height: 70px;
+    background: #f1f1f1;
+    cursor: pointer;
+}
+.basket_btn img{
+    width: 70%;
+}
+#o_green{
+    margin: 1px;
+    padding: 1px;
+    width: 11px;
+    height: 11px;
+    color: white;
+    font-size: 10px;
+    border-radius: 7px;
+    border: 1px solid #2c2c2c;
+}
+
+.notFound{
+    margin-top: 50px;
+    padding-left: 50px;
+    width: 100%;
+    height: 500px;
+    color: #262525;
+}
+
+#search_list{
+  display: none;
+}
+
+.about{
+    margin-top: 40px;
+    padding: 0 20px 20px 20px;
+    width: 100%;
+    /*background: #e6e6e6;*/
+    color: #262525;
+    text-indent: 20px;
+    text-align: justify;
+    border-left: 2px solid #e6e6e6;
+    /*box-shadow: inset 2px 2px 10px #8c8b8b ;*/
+}
+.about p{
+    padding-right: 25px;
+}
+
+
+@keyframes for_btn {
+  0%{
+    box-shadow: 1px 1px 2px #646464;
+    border-radius: 5px;
+  }
+  50%{
+    box-shadow: 2px 2px 5px #262525;
+    border-radius: 2px;
+  }
+  100%{
+    box-shadow: 1px 1px 2px #646464;
+    border-radius: 5px;
+  }
+}
+@keyframes for_btn2 {
+  0%{
+    color: white;
+  }
+  50%{
+    color: #80ed5b;
+  }
+  100%{
+    color: white;
+  }
+}
+
+@keyframes btn_active {
+  0%{
+    background: linear-gradient(to top left, white 20%, black);
+  }
+  50%{
+    background: linear-gradient(to top left, black, white 40%, black);
+  }
+  100%{
+    background: linear-gradient(to top left, black 80%, white);
+  }
+}
+
+@keyframes btn_active2 {
+  0%{
+    background: linear-gradient(to top left, white 20%, yellow);
+  }
+  50%{
+    background: linear-gradient(to top left, yellow, white 40%, yellow);
+  }
+  100%{
+    background: linear-gradient(to top left, yellow 80%, white);
+  }
+}
+
+@keyframes for_sale {
+    0%{
+        color: green;
+    }
+    25%{
+        color: yellow;
+    }
+    50%{
+        color: red;
+    }
+    75%{
+        color: blue;
+    }
+    100%{
+        color: green;
+    }
+}
+
+@media screen and (max-width: 1240px){
+  .menu_content90{
+    width: 100%;
+  }
+  .menu{
+      min-width: 200px;
+  }
+  .content_list{
+
+  }
+}
+
+@media screen and (max-width: 375px){
+    .search{
+        margin: 0;
+    }
+    .search_inp{
+        margin: 5px;
+    }
+    .content_list{
+        justify-content: center;
+    }
+    .notFound{
+        padding: 0;
+        margin:0 0 0 10px;
+    }
+    #auto_lenght{
+        margin: 10px;
+    }
+
+}
+@media screen and (min-width: 376px) and (max-width: 820px){
+    .search{
+        margin: 0;
+    }
+    .search_inp{
+        margin: 15px 10px 10px 10px;
+    }
+    .content_list{
+        justify-content: center;
+    }
+    .notFound{
+        padding: 0;
+        margin:0 0 0 10px;
+    }
+    #auto_lenght{
+        margin: 10px;
+    }
+}
+
+
+

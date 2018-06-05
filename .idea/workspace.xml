@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01b74f00-a777-4432-914a-e1cb624c6e67" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/header.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="536">
+              <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basket.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basket.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="113" column="1" lean-forward="false" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="corzyna.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/reducers/corzyna.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cars.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reducers/cars.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="183" column="1" lean-forward="false" selection-start-line="183" selection-start-column="1" selection-end-line="183" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basket.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/basket.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="536">
+              <caret line="88" column="77" lean-forward="false" selection-start-line="88" selection-start-column="77" selection-end-line="88" selection-end-column="77" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="total_price.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reducers/total_price.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/manList.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="G:/jsjsjs/new-app/src/header.css" />
+        <option value="G:/jsjsjs/new-app/src/header.js" />
+        <option value="$PROJECT_DIR$/search.js" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/reducers/notState.js" />
+        <option value="$PROJECT_DIR$/src/reducers/come_regist.js" />
+        <option value="$PROJECT_DIR$/src/responsive.css" />
+        <option value="$PROJECT_DIR$/src/reducers/search.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/footer.js" />
+        <option value="$PROJECT_DIR$/src/about.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/menu.js" />
+        <option value="$PROJECT_DIR$/src/footer.css" />
+        <option value="$PROJECT_DIR$/src/menu.css" />
+        <option value="$PROJECT_DIR$/src/reducers/cars.js" />
+        <option value="$PROJECT_DIR$/src/header.css" />
+        <option value="$PROJECT_DIR$/src/reducers/finish_price.js" />
+        <option value="$PROJECT_DIR$/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/total_price.js" />
+        <option value="$PROJECT_DIR$/src/reducers/corzyna.js" />
+        <option value="$PROJECT_DIR$/src/header.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/basket.js" />
+        <option value="$PROJECT_DIR$/src/basket.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="711" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="new-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react-redux/new-redux/src/reducers/women.js" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b74f00-a777-4432-914a-e1cb624c6e67" name="Default" comment="" />
+      <created>1520860015983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520860015983</updated>
+      <workItem from="1520860017237" duration="1763000" />
+      <workItem from="1520861810591" duration="599000" />
+      <workItem from="1520863671436" duration="599000" />
+      <workItem from="1520866774047" duration="610000" />
+      <workItem from="1520923269637" duration="74000" />
+      <workItem from="1520957055373" duration="1730000" />
+      <workItem from="1520958816338" duration="608000" />
+      <workItem from="1521008502348" duration="1723000" />
+      <workItem from="1521010313676" duration="979000" />
+      <workItem from="1521012366066" duration="1781000" />
+      <workItem from="1521014179024" duration="91000" />
+      <workItem from="1521020858079" duration="1782000" />
+      <workItem from="1521022666874" duration="1824000" />
+      <workItem from="1521024524523" duration="2258000" />
+      <workItem from="1521030607304" duration="1197000" />
+      <workItem from="1521033559537" duration="1913000" />
+      <workItem from="1521036022680" duration="1835000" />
+      <workItem from="1521037961310" duration="1545000" />
+      <workItem from="1521041678732" duration="1591000" />
+      <workItem from="1521043527739" duration="1784000" />
+      <workItem from="1521046518402" duration="1791000" />
+      <workItem from="1521048339728" duration="834000" />
+      <workItem from="1521104138720" duration="1778000" />
+      <workItem from="1521105986383" duration="1789000" />
+      <workItem from="1521107797908" duration="1772000" />
+      <workItem from="1521109609189" duration="980000" />
+      <workItem from="1521113871827" duration="1791000" />
+      <workItem from="1521115725346" duration="2228000" />
+      <workItem from="1521121909258" duration="2036000" />
+      <workItem from="1521123966886" duration="27000" />
+      <workItem from="1521128439937" duration="186000" />
+      <workItem from="1521128862858" duration="2312000" />
+      <workItem from="1521131695973" duration="1777000" />
+      <workItem from="1521133503243" duration="475000" />
+      <workItem from="1521198557913" duration="1781000" />
+      <workItem from="1521200369197" duration="1912000" />
+      <workItem from="1521202516393" duration="1523000" />
+      <workItem from="1521204330272" duration="2228000" />
+      <workItem from="1521206829814" duration="1106000" />
+      <workItem from="1521208835310" duration="2261000" />
+      <workItem from="1521211172039" duration="1785000" />
+      <workItem from="1521213025828" duration="1782000" />
+      <workItem from="1521214845879" duration="1783000" />
+      <workItem from="1521216659564" duration="1787000" />
+      <workItem from="1521218471458" duration="1415000" />
+      <workItem from="1521222225619" duration="655000" />
+      <workItem from="1521241154547" duration="1947000" />
+      <workItem from="1521243122479" duration="1752000" />
+      <workItem from="1521282824487" duration="1562000" />
+      <workItem from="1521284793367" duration="1729000" />
+      <workItem from="1521286657289" duration="2140000" />
+      <workItem from="1521289850534" duration="125000" />
+      <workItem from="1521291237076" duration="447000" />
+      <workItem from="1521394065871" duration="510000" />
+      <workItem from="1521645916442" duration="1784000" />
+      <workItem from="1521647725492" duration="1336000" />
+      <workItem from="1521651771404" duration="591000" />
+      <workItem from="1521796612745" duration="33000" />
+      <workItem from="1522747045449" duration="1732000" />
+      <workItem from="1522748802451" duration="1786000" />
+      <workItem from="1522750608233" duration="1820000" />
+      <workItem from="1522752498713" duration="1535000" />
+      <workItem from="1522757316156" duration="705000" />
+      <workItem from="1522760605466" duration="1782000" />
+      <workItem from="1522762415397" duration="1337000" />
+      <workItem from="1522767253552" duration="1862000" />
+      <workItem from="1522769145707" duration="712000" />
+      <workItem from="1522770762102" duration="198000" />
+      <workItem from="1522771010268" duration="1854000" />
+      <workItem from="1522774532290" duration="1785000" />
+      <workItem from="1522776341891" duration="1418000" />
+      <workItem from="1522778149005" duration="1787000" />
+      <workItem from="1522779958400" duration="1466000" />
+      <workItem from="1522820665324" duration="1785000" />
+      <workItem from="1522822475738" duration="1781000" />
+      <workItem from="1522824304639" duration="1785000" />
+      <workItem from="1522833934064" duration="947000" />
+      <workItem from="1522835752514" duration="1100000" />
+      <workItem from="1522838089568" duration="1885000" />
+      <workItem from="1522840684150" duration="1875000" />
+      <workItem from="1522842882966" duration="1038000" />
+      <workItem from="1522920302066" duration="1312000" />
+      <workItem from="1522922178488" duration="987000" />
+      <workItem from="1522925903419" duration="879000" />
+      <workItem from="1523014970463" duration="1699000" />
+      <workItem from="1523016694282" duration="2018000" />
+      <workItem from="1523018737723" duration="1836000" />
+      <workItem from="1523020679076" duration="1237000" />
+      <workItem from="1523023441245" duration="1277000" />
+      <workItem from="1523359237824" duration="1579000" />
+      <workItem from="1523361061549" duration="1938000" />
+      <workItem from="1523364187712" duration="1785000" />
+      <workItem from="1523366035952" duration="717000" />
+      <workItem from="1523446536181" duration="2281000" />
+      <workItem from="1523450074716" duration="2027000" />
+      <workItem from="1523452167228" duration="1814000" />
+      <workItem from="1523454019403" duration="1631000" />
+      <workItem from="1523455839308" duration="1668000" />
+      <workItem from="1523457893742" duration="1516000" />
+      <workItem from="1523524259086" duration="1241000" />
+      <workItem from="1523526912538" duration="720000" />
+      <workItem from="1523541884181" duration="1787000" />
+      <workItem from="1523543694532" duration="766000" />
+      <workItem from="1523700700338" duration="309000" />
+      <workItem from="1523865836812" duration="1002000" />
+      <workItem from="1523867719818" duration="1527000" />
+      <workItem from="1523869527222" duration="1777000" />
+      <workItem from="1523871357735" duration="885000" />
+      <workItem from="1523882924235" duration="1799000" />
+      <workItem from="1523884896475" duration="1117000" />
+      <workItem from="1523966498956" duration="1857000" />
+      <workItem from="1523968401248" duration="1849000" />
+      <workItem from="1523970277153" duration="1938000" />
+      <workItem from="1523972247930" duration="1781000" />
+      <workItem from="1523974052995" duration="1782000" />
+      <workItem from="1523975870897" duration="1859000" />
+      <workItem from="1523977755842" duration="1783000" />
+      <workItem from="1523979563769" duration="1786000" />
+      <workItem from="1523981386307" duration="981000" />
+      <workItem from="1523983190169" duration="573000" />
+      <workItem from="1524038777670" duration="1794000" />
+      <workItem from="1524040597229" duration="1527000" />
+      <workItem from="1524042407827" duration="1499000" />
+      <workItem from="1524050845527" duration="1783000" />
+      <workItem from="1524052662999" duration="1785000" />
+      <workItem from="1524054472224" duration="1784000" />
+      <workItem from="1524056293258" duration="2155000" />
+      <workItem from="1524058532050" duration="1781000" />
+      <workItem from="1524060338936" duration="1784000" />
+      <workItem from="1524062157867" duration="1784000" />
+      <workItem from="1524063964684" duration="778000" />
+      <workItem from="1524066083753" duration="1922000" />
+      <workItem from="1524068271472" duration="594000" />
+      <workItem from="1524130618757" duration="1789000" />
+      <workItem from="1524132434481" duration="965000" />
+      <workItem from="1524136460731" duration="597000" />
+      <workItem from="1524140177895" duration="1278000" />
+      <workItem from="1524145024113" duration="1786000" />
+      <workItem from="1524146834826" duration="267000" />
+      <workItem from="1524147325991" duration="1629000" />
+      <workItem from="1524149496705" duration="1439000" />
+      <workItem from="1524227290035" duration="1784000" />
+      <workItem from="1524229101806" duration="1782000" />
+      <workItem from="1524230907277" duration="1874000" />
+      <workItem from="1524234339304" duration="1784000" />
+      <workItem from="1524236386197" duration="1788000" />
+      <workItem from="1524238198716" duration="1783000" />
+      <workItem from="1524240009158" duration="1146000" />
+      <workItem from="1524288086455" duration="2139000" />
+      <workItem from="1524290248268" duration="1786000" />
+      <workItem from="1524292057309" duration="413000" />
+      <workItem from="1524303639408" duration="1786000" />
+      <workItem from="1524305460149" duration="1621000" />
+      <workItem from="1524314318969" duration="1785000" />
+      <workItem from="1524316127734" duration="1787000" />
+      <workItem from="1524317942245" duration="1783000" />
+      <workItem from="1524319751097" duration="1712000" />
+      <workItem from="1524470243160" duration="730000" />
+      <workItem from="1524472506773" duration="1782000" />
+      <workItem from="1524474670511" duration="957000" />
+      <workItem from="1524476492118" duration="1779000" />
+      <workItem from="1524478294483" duration="1945000" />
+      <workItem from="1524480293364" duration="1129000" />
+      <workItem from="1524557327230" duration="2086000" />
+      <workItem from="1524561325586" duration="1785000" />
+      <workItem from="1524563179118" duration="1767000" />
+      <workItem from="1524564987729" duration="1772000" />
+      <workItem from="1524566788367" duration="1953000" />
+      <workItem from="1524652390453" duration="45000" />
+      <workItem from="1525346473611" duration="1137000" />
+      <workItem from="1525367139397" duration="36000" />
+      <workItem from="1525781903881" duration="75000" />
+      <workItem from="1527247039272" duration="1767000" />
+      <workItem from="1527248833332" duration="1783000" />
+      <workItem from="1527250641643" duration="1526000" />
+      <workItem from="1527254073620" duration="1784000" />
+      <workItem from="1527255886999" duration="659000" />
+      <workItem from="1527256604522" duration="1429000" />
+      <workItem from="1527260820536" duration="1462000" />
+      <workItem from="1527262639442" duration="1936000" />
+      <workItem from="1527264599468" duration="331000" />
+      <workItem from="1527583781590" duration="1781000" />
+      <workItem from="1527585588500" duration="1150000" />
+      <workItem from="1527587598339" duration="1660000" />
+      <workItem from="1527589485118" duration="1783000" />
+      <workItem from="1527591305165" duration="1785000" />
+      <workItem from="1527593122315" duration="1784000" />
+      <workItem from="1527594931368" duration="1923000" />
+      <workItem from="1527596888122" duration="1784000" />
+      <workItem from="1527598699001" duration="401000" />
+      <workItem from="1527599147078" duration="1791000" />
+      <workItem from="1527600987310" duration="1661000" />
+      <workItem from="1527603388982" duration="1785000" />
+      <workItem from="1527605201813" duration="1907000" />
+      <workItem from="1527607221136" duration="1783000" />
+      <workItem from="1527609029848" duration="1782000" />
+      <workItem from="1527671928728" duration="1420000" />
+      <workItem from="1527673739006" duration="1783000" />
+      <workItem from="1527675550652" duration="1935000" />
+      <workItem from="1527756730058" duration="1279000" />
+      <workItem from="1527842721205" duration="1783000" />
+      <workItem from="1527844531006" duration="134000" />
+      <workItem from="1527847959669" duration="1775000" />
+      <workItem from="1527849774662" duration="2325000" />
+      <workItem from="1527855251829" duration="1798000" />
+      <workItem from="1527857575854" duration="1786000" />
+      <workItem from="1527859416485" duration="879000" />
+      <workItem from="1527864331350" duration="1786000" />
+      <workItem from="1527866141725" duration="2061000" />
+      <workItem from="1527869927942" duration="676000" />
+      <workItem from="1527872210887" duration="1800000" />
+      <workItem from="1527874034233" duration="1325000" />
+      <workItem from="1528177351972" duration="671000" />
+      <workItem from="1528185558749" duration="599000" />
+      <workItem from="1528187712124" duration="1550000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="312584000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13543192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../002/new-app/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/jsjsjs/new-app/src/header.css" />
+    <entry file="file://G:/jsjsjs/new-app/src/header.js" />
+    <entry file="file://$PROJECT_DIR$/../../002/new-app/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="98" column="3" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="98" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../react-redux/new-redux/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../react-redux/new-redux/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Two_stor/new-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.js" />
+    <entry file="file://$PROJECT_DIR$/../../react-redux/new-redux/src/reducers/searchMan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Two_stor/new-app/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2178">
+          <caret line="169" column="20" lean-forward="false" selection-start-line="169" selection-start-column="20" selection-end-line="169" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/notState.js" />
+    <entry file="file://$PROJECT_DIR$/src/reducers/come_regist.js" />
+    <entry file="file://$PROJECT_DIR$/../../react-redux/new-redux/src/reducers/mans.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../react-redux/new-redux/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Cursor/Homework/flexbox_HW/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1336">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Cursor/Homework/flexbox_HW/VolodymyrMot.github.io/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Cursor/Homework/flexbox_HW/volodymyrmot_rwd.github.io/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ContactFilter/new-app/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ContactFilter/new-app/src/Contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Cursor/Homework/HW_flex-box/RWD/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="100" column="38" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ContactFilter/new-app/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="55" column="18" lean-forward="false" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ContactFilter/new-app/src/ContactsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="32" column="53" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="32" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../OOP/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="67" column="29" lean-forward="false" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2088">
+          <caret line="87" column="57" lean-forward="false" selection-start-line="87" selection-start-column="57" selection-end-line="87" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../my_gameTask/new-app/src/reducers/colors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="83" column="13" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/finish_price.js" />
+    <entry file="file://$PROJECT_DIR$/../../react-redux/new-redux/src/reducers/women.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="19" column="78" lean-forward="false" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="77" column="19" lean-forward="false" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="88" column="77" lean-forward="false" selection-start-line="88" selection-start-column="77" selection-end-line="88" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/total_price.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basket.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="113" column="1" lean-forward="false" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/cars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="183" column="1" lean-forward="false" selection-start-line="183" selection-start-column="1" selection-end-line="183" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/corzyna.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
